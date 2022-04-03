@@ -28,7 +28,7 @@ try:
 except:
     os.system('pip2 install lolcat')
 
-logo = "'\x1b[1;92m' \n    ########     ###          ##    ###    \n    ##     ##   ## ##         ##   ## ##   \n    ##     ##  ##   ##        ##  ##   ##  \n    ########  ##     ##       ## ##     ## \n    ##   ##   ######### ##    ## ######### \n    ##    ##  ##     ## ##    ## ##     ## \n    ##     ## ##     ##  ######  ##     ##\n\n\n'\x1b[1;91m'   Author      :      Raees Ayaz Husssain  \n'\x1b[1;92m'   Github      :     KHASKHELI786 \n'\x1b[1;92m'   KING OF     :    KHAKHASKHELI786SKHELI \n'\x1b[1;91m'   TOOL TYPE   :     PAID COMMANDS\n'\x1b[1;92m'   WAP NUMBER  :     03061925319          \n"
+logo = "'\x1b[1;92m' \n    ########     ###          ##    ###    \n    ##     ##   ## ##         ##   ## ##   \n    ##     ##  ##   ##        ##  ##   ##  \n    ########  ##     ##       ## ##     ## \n    ##   ##   ######### ##    ## ######### \n    ##    ##  ##     ## ##    ## ##     ## \n    ##     ## ##     ##  ######  ##     ##\n\n\n'\x1b[1;91m'   Author      :      Raees Ayaz Husssain  \n'\x1b[1;92m'   Github      :     786Ayaz\n'\x1b[1;92m'   KING OF     :    MALLAH \n'\x1b[1;91m'   TOOL TYPE   :     PAID COMMANDS\n'\x1b[1;92m'   WAP NUMBER  :     03061925319          \n"
 dec = '2'
 server = '2'
 rsauser = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
